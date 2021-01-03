@@ -15,3 +15,8 @@
 .card-container:hover {
 	transform: scale(1.05);
 }
+
+.avatar-image {
+	border-radius: 50%;
+	border: 1px dashed grey;
+}
